@@ -14,15 +14,6 @@
 - Working mainly with Python and deep learning workflows.
 - I enjoy turning research ideas into deployable tools.
 
-## Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [ShowAInpainting](https://github.com/saturn756/ShowAInpainting) | Deployable service boundary for industrial anomaly-image generation. |
-| [DetectandTrackit](https://github.com/saturn756/DetectandTrackit) | Real-time object detection and single-object tracking system. |
-| [FDDI](https://github.com/saturn756/FDDI) | Training-free acceleration for reference-guided image editing and defect generation. |
-| [HACKTHON_pygame](https://github.com/saturn756/HACKTHON_pygame) | A Python game project built for a hackathon. |
-
 ## Tech stack
 
 <p>
