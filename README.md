@@ -29,17 +29,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,js,nodejs,vue,git,linux&perline=8" alt="Python, PyTorch, OpenCV, JavaScript, Node.js, Vue, Git, Linux" />
 </p>
 
-## GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=saturn756&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Saturn's GitHub stats" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saturn756&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=saturn756&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
-
 <p align="center">
   <i>Keep building, keep learning.</i>
 </p>
