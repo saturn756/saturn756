@@ -10,6 +10,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,js,nodejs,vue,git,linux&perline=8" alt="Python, PyTorch, OpenCV, JavaScript, Node.js, Vue, Git, Linux" />
 </p>
 
-## [ずっと真夜中でいいのに。](https://zutomayo.net/)
+<p><strong>ずっと真夜中でいいのに。</strong></p>
 
 btw beyond vscode, don't miss this band: #ずっと真夜中でいいのに。 (^. .^)
